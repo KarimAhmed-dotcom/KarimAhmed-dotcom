@@ -306,6 +306,7 @@ section{
     .main{
         width:100%;
         height:auto;
+        background: #000016;
     }
      .social-icons a{
         text-decoration: none;
