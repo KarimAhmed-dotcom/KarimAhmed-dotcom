@@ -303,6 +303,10 @@ section{
     .main-content h3{
         font-size: 1.4em;
     }
+    .main{
+        width:100%;
+        height:auto;
+    }
 }
 
 @media (max-width:300px){
